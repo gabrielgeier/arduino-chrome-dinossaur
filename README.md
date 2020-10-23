@@ -7,8 +7,6 @@ Hello! This is a personal project developed during my third year in college. I t
 
 Basically i used a joystick connected on a circuit board. The arduino code output the joystick action (up or down), while the python code listen to it and activate the corresponding keyboard key.
 
-The arduino code was responsible to print the corresponding keyboard key. 
-
 <p align="center"><img alt="Game overview" src="https://media.giphy.com/media/GEuBtShnphu4yEaDkK/source.gif" /></p>
 
 
